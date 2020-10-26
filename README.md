@@ -1,2 +1,2 @@
 # Ball-Crash
-A Mobile Game developed with Unity.
+A 2D Mobile Game developed with Unity.
